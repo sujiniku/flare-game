@@ -18,15 +18,15 @@ msgstr ""
 #: ../items/types.txt:5
 #, fuzzy
 msgid "Main Hand"
-msgstr "ブリンクの杖"
+msgstr "利き手"
 
 #: ../items/types.txt:9
 msgid "Off Hand"
-msgstr ""
+msgstr "第二の手"
 
 #: ../items/types.txt:13
 msgid "Head"
-msgstr ""
+msgstr "頭"
 
 #: ../items/types.txt:17
 msgid "Torso"
@@ -34,19 +34,19 @@ msgstr ""
 
 #: ../items/types.txt:21
 msgid "Hands"
-msgstr ""
+msgstr "両手"
 
 #: ../items/types.txt:25
 msgid "Legs"
-msgstr ""
+msgstr "足"
 
 #: ../items/types.txt:29
 msgid "Feet"
-msgstr ""
+msgstr "靴"
 
 #: ../items/types.txt:33
 msgid "Artifact"
-msgstr ""
+msgstr "アーティファクト"
 
 #: ../items/types.txt:37
 msgid "Ring"
@@ -58,15 +58,15 @@ msgstr ""
 
 #: ../items/types.txt:47
 msgid "Gem"
-msgstr ""
+msgstr "宝石"
 
 #: ../items/types.txt:51
 msgid "Key"
-msgstr ""
+msgstr "鍵"
 
 #: ../items/types.txt:55
 msgid "Book"
-msgstr ""
+msgstr "本"
 
 #: ../items/qualities.txt:3
 msgid "Low"
@@ -103,7 +103,7 @@ msgstr ""
 #: ../engine/loot.txt:14
 #, fuzzy
 msgid "Gold"
-msgstr "ゴブリン"
+msgstr "金"
 
 #: ../engine/hero_options.txt:6
 msgid "Delrek"
