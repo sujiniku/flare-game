@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-10-15 14:42+\n"
+"POT-Creation-Date: 2018-02-03 22:50+\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,6 +25,14 @@ msgstr ""
 
 #: ../items/items.txt:59
 msgid "Use: Teleport to target position."
+msgstr ""
+
+#: ../items/items.txt:63
+msgid "DEV Invisibility Boots"
+msgstr ""
+
+#: ../items/items.txt:68
+msgid "Use: Turn Invisible"
 msgstr ""
 
 #: ../items/sets.txt:3
@@ -71,8 +79,24 @@ msgstr ""
 msgid "Weakness to Ice"
 msgstr ""
 
-#: ../powers/powers.txt:23
+#: ../powers/effects.txt:121
+msgid "Sacrifice"
+msgstr ""
+
+#: ../powers/effects.txt:146
+msgid "Reflect"
+msgstr ""
+
+#: ../powers/powers.txt:25
 msgid "Teleport"
+msgstr ""
+
+#: ../powers/powers.txt:42
+msgid "Turn Invisible"
+msgstr ""
+
+#: ../powers/powers.txt:53
+msgid "Remove Invisibility"
 msgstr ""
 
 #: ../engine/elements.txt:3
@@ -259,6 +283,14 @@ msgstr ""
 msgid "throwing axe"
 msgstr ""
 
+#: ../enemies/catacomb_boulder_1.txt:6
+msgid "Boulder"
+msgstr ""
+
+#: ../enemies/goblin_minecart.txt:4
+msgid "Goblin"
+msgstr ""
+
 #: ../enemies/lvl10_minotaur.txt:3
 msgid "Minotaur"
 msgstr ""
@@ -285,6 +317,10 @@ msgstr ""
 
 #: ../enemies/lvl10_zombie_leecher.txt:3
 msgid "Leecher Zombie"
+msgstr ""
+
+#: ../enemies/lvl11_antlion_venom.txt:3
+msgid "Venom Antlion"
 msgstr ""
 
 #: ../enemies/lvl11_buchi.txt:3
@@ -315,8 +351,36 @@ msgstr ""
 msgid "Cyl"
 msgstr ""
 
+#: ../enemies/lvl12_metzger.txt:3
+msgid "Metzger"
+msgstr ""
+
 #: ../enemies/lvl12_nishi.txt:3
 msgid "Nishi"
+msgstr ""
+
+#: ../enemies/lvl13_antlion_fossilized.txt:3
+msgid "Fossilized Antlion"
+msgstr ""
+
+#: ../enemies/lvl13_antlion_larva.txt:3
+msgid "Antlion Larva"
+msgstr ""
+
+#: ../enemies/lvl13_goblin_thief.txt:3
+msgid "Goblin Thief"
+msgstr ""
+
+#: ../enemies/lvl13_skeleton_shadowstep.txt:3
+msgid "Shadowstep Skeleton"
+msgstr ""
+
+#: ../enemies/lvl13_zombie_miner.txt:13
+msgid "Zombie Miner"
+msgstr ""
+
+#: ../enemies/lvl13_zombie_vomit.txt:3
+msgid "Vomit Zombie"
 msgstr ""
 
 #: ../enemies/lvl1_goblin_runner.txt:3
@@ -337,10 +401,6 @@ msgstr ""
 
 #: ../enemies/lvl1_zombie_rotting.txt:3
 msgid "Rotting Zombie"
-msgstr ""
-
-#: ../enemies/lvl2_goblin.txt:3
-msgid "Goblin"
 msgstr ""
 
 #: ../enemies/lvl2_goblin_charger.txt:3
@@ -511,7 +571,7 @@ msgstr ""
 msgid "Kylana"
 msgstr ""
 
-#: ../enemies/lvl8_mez.txt:3
+#: ../enemies/lvl8_mez.txt:4
 msgid "Mez"
 msgstr ""
 
@@ -521,10 +581,6 @@ msgstr ""
 
 #: ../enemies/lvl9_antlion_sprayer.txt:3
 msgid "Antlion Sprayer"
-msgstr ""
-
-#: ../enemies/lvl9_boulder.txt:3
-msgid "Boulder"
 msgstr ""
 
 #: ../enemies/lvl9_goblin_hunter.txt:3
@@ -591,31 +647,31 @@ msgstr ""
 msgid "River Trail"
 msgstr ""
 
-#: ../maps/black_oak_city.txt:10
+#: ../maps/black_oak_city.txt:11
 msgid "Black Oak City"
 msgstr ""
 
-#: ../maps/black_oak_city.txt:341
+#: ../maps/black_oak_city.txt:342
 msgid "Black Oak Farm"
 msgstr ""
 
-#: ../maps/black_oak_city.txt:353
+#: ../maps/black_oak_city.txt:354
 msgid "Supplies"
 msgstr ""
 
-#: ../maps/black_oak_city.txt:601
+#: ../maps/black_oak_city.txt:602
 msgid "Wizard's Tower: Entrance Hall"
 msgstr ""
 
-#: ../maps/black_oak_farm.txt:341
+#: ../maps/black_oak_farm.txt:342
 msgid "Southern Ridge"
 msgstr ""
 
-#: ../maps/black_oak_farm.txt:522
+#: ../maps/black_oak_farm.txt:523
 msgid "Dilapidated Sewers"
 msgstr ""
 
-#: ../maps/black_oak_farm.txt:546
+#: ../maps/black_oak_farm.txt:547
 msgid "Lumber"
 msgstr ""
 
@@ -645,6 +701,10 @@ msgstr ""
 
 #: ../maps/book_of_the_dead.txt:294
 msgid "Quest added."
+msgstr ""
+
+#: ../maps/book_of_the_dead.txt:349
+msgid "You sign your name in the Book of the Dead. The Black Quill vanishes and the inkwell is dry. You hope this worked."
 msgstr ""
 
 #: ../maps/dilapidated_sewers.txt:309
@@ -719,19 +779,19 @@ msgstr ""
 msgid "The bookcase slides back and reveals a hidden path."
 msgstr ""
 
-#: ../maps/fort_nasu.txt:1085
+#: ../maps/fort_nasu.txt:1086
 msgid "Book Stand"
 msgstr ""
 
-#: ../maps/fort_nasu.txt:1124
+#: ../maps/fort_nasu.txt:1125
 msgid "Altar"
 msgstr ""
 
-#: ../maps/fort_nasu.txt:1131
+#: ../maps/fort_nasu.txt:1132
 msgid "As you enter the throne room, you see an Altar with a wooden figurine placed upon it."
 msgstr ""
 
-#: ../maps/fort_nasu.txt:1161
+#: ../maps/fort_nasu.txt:1162
 msgid "Strange Book"
 msgstr ""
 
@@ -755,27 +815,31 @@ msgstr ""
 msgid "Gravestone"
 msgstr ""
 
-#: ../maps/hyperspace.txt:195
+#: ../maps/hyperspace.txt:196
 msgid "St. Maria: Prison"
 msgstr ""
 
-#: ../maps/hyperspace.txt:217
+#: ../maps/hyperspace.txt:218
 msgid "Stormrock Pass"
 msgstr ""
 
-#: ../maps/hyperspace.txt:228
+#: ../maps/hyperspace.txt:229
 msgid "Temple of Mez: Main Hall"
 msgstr ""
 
-#: ../maps/hyperspace.txt:239
+#: ../maps/hyperspace.txt:240
 msgid "Nazia Underground"
 msgstr ""
 
-#: ../maps/hyperspace.txt:261
+#: ../maps/hyperspace.txt:262
 msgid "Wizard's Tower: Research Chambers"
 msgstr ""
 
-#: ../maps/lake_kuuma.txt:851
+#: ../maps/hyperspace.txt:273
+msgid "Underworld Catacombs"
+msgstr ""
+
+#: ../maps/lake_kuuma.txt:852
 msgid "Boat"
 msgstr ""
 
@@ -831,7 +895,7 @@ msgstr ""
 msgid "Reset Quest: \"Trapped!\""
 msgstr ""
 
-#: ../maps/nazia_underground.txt:377
+#: ../maps/nazia_underground.txt:378
 msgid "Nazia Underground waypoint discovered."
 msgstr ""
 
@@ -891,11 +955,11 @@ msgstr ""
 msgid "Stonewood waypoint discovered."
 msgstr ""
 
-#: ../maps/stormrock_pass.txt:893
+#: ../maps/stormrock_pass.txt:894
 msgid "Stormrock Pass waypoint discovered."
 msgstr ""
 
-#: ../maps/stormrock_pass.txt:1051
+#: ../maps/stormrock_pass.txt:1052
 msgid "Stormrock Ruins"
 msgstr ""
 
@@ -911,19 +975,39 @@ msgstr ""
 msgid "Temple of Mez: Entrance"
 msgstr ""
 
+#: ../maps/temple_of_mez_2.txt:550
+msgid "You cut into your arm with the Knife of Sacrifices. The pain is excruciating. Shaking, you manage to collect some of your blood in a small vial. The knife quickly raises in temperature until it disintegrates. Your wound then begins to close itself, leaving no trace at all besides a warm feeling throughout your body."
+msgstr ""
+
+#: ../maps/temple_of_mez_2.txt:558
+msgid "Red Altar"
+msgstr ""
+
+#: ../maps/underworld.txt:12
+msgid "Underworld"
+msgstr ""
+
+#: ../maps/underworld_catacombs.txt:513
+msgid "Underworld Catacombs waypoint discovered."
+msgstr ""
+
+#: ../maps/underworld_catacombs.txt:564
+msgid "Underworld Mines"
+msgstr ""
+
 #: ../maps/wizards_tower_1.txt:341
 msgid "to Black Oak City"
 msgstr ""
 
-#: ../maps/wizards_tower_2.txt:363
+#: ../maps/wizards_tower_2.txt:364
 msgid "Wizard's Tower: Research Chambers waypoint discovered."
 msgstr ""
 
-#: ../maps/wizards_tower_2.txt:502
+#: ../maps/wizards_tower_2.txt:503
 msgid "Wizard's Tower: Laboratory"
 msgstr ""
 
-#: ../maps/wizards_tower_2.txt:510
+#: ../maps/wizards_tower_2.txt:511
 msgid "The plaque reads: Underworld Gate"
 msgstr ""
 
@@ -931,32 +1015,56 @@ msgstr ""
 msgid "Return to Empyrean"
 msgstr ""
 
-#: ../quests/000_empyrean.txt:5
+#: ../quests/000_empyrean.txt:6
 msgid "The Book of the Dead states redemption is possible for those who sign their name in gravebloom ink. Florin in Perdition Harbor can tell you more."
 msgstr ""
 
-#: ../quests/000_empyrean.txt:10
+#: ../quests/000_empyrean.txt:11
 msgid "Before leaving St. Maria's Crypt, it would be wise to look for anything useful."
 msgstr ""
 
-#: ../quests/000_empyrean.txt:15
+#: ../quests/000_empyrean.txt:16
 msgid "Ask Florin about the Gravebloom flower."
 msgstr ""
 
-#: ../quests/000_empyrean.txt:20
+#: ../quests/000_empyrean.txt:22
 msgid "You've found a gravebloom flower. It is a primary component in the creation of gravebloom ink."
 msgstr ""
 
-#: ../quests/000_empyrean.txt:25
+#: ../quests/000_empyrean.txt:27
 msgid "A strange black feather fell off of Mez. You should take it before leaving the Temple of Mez."
 msgstr ""
 
-#: ../quests/000_empyrean.txt:30
+#: ../quests/000_empyrean.txt:32
 msgid "Ask Florin about the Black Quill."
 msgstr ""
 
-#: ../quests/000_empyrean.txt:35
+#: ../quests/000_empyrean.txt:38
 msgid "The Black Quill you found is the only thing capable of holding gravebloom ink. It will be the only way to write in the Book of the Dead."
+msgstr ""
+
+#: ../quests/000_empyrean.txt:43
+msgid "Before leaving the Wizard's Tower, you should take the knife that Metzger dropped."
+msgstr ""
+
+#: ../quests/000_empyrean.txt:48
+msgid "Ask Florin about the Knife of Sacrifices."
+msgstr ""
+
+#: ../quests/000_empyrean.txt:54
+msgid "Gravebloom ink requires a sample of your blood to be drawn with the Knife of Sacrifices. This must take place at the Red Altar in the Temple of Mez."
+msgstr ""
+
+#: ../quests/000_empyrean.txt:60
+msgid "Having completed the ritual at the Red Altar, return to Florin to proceed with creating the gravebloom ink."
+msgstr ""
+
+#: ../quests/000_empyrean.txt:65
+msgid "The time has come. Write your name in the Book of the Dead and gain entry to the Underworld."
+msgstr ""
+
+#: ../quests/000_empyrean.txt:69
+msgid "Make your way to the Underworld. A portal to the Underworld was located in the Wizard's Tower. Once you are there, search for a way to return to Empyrean."
 msgstr ""
 
 #: ../quests/001_krolan.txt:1
@@ -1239,52 +1347,104 @@ msgstr ""
 msgid "Florin, Apothecary"
 msgstr ""
 
-#: ../npcs/florin.txt:26
+#: ../npcs/florin.txt:27
 msgid "What can you tell me about the Book of the Dead?"
 msgstr ""
 
-#: ../npcs/florin.txt:27
+#: ../npcs/florin.txt:28
 msgid "The Book of the Dead tells of redemption for those who sign their name in gravebloom ink. Your sins will be washed away, and you will be able to return to wherever you were banished from."
 msgstr ""
 
-#: ../npcs/florin.txt:28
+#: ../npcs/florin.txt:29
 msgid "So, where can I find gravebloom ink?"
 msgstr ""
 
-#: ../npcs/florin.txt:29
+#: ../npcs/florin.txt:30
 msgid "Gravebloom ink is not something you find. You must make it yourself. Besides the Gravebloom flower, you will need to sacrifice your own blood with a special blade."
 msgstr ""
 
-#: ../npcs/florin.txt:30
+#: ../npcs/florin.txt:31
 msgid "Even if you can create some gravebloom ink, you won't be able to write with just anything. The ink won't stick to a normal quill. You will need to find something capable of holding the gravebloom ink."
 msgstr ""
 
-#: ../npcs/florin.txt:31
+#: ../npcs/florin.txt:32
 msgid "If you can perform the ritual to make gravebloom ink and find a suitable writing utensil, redemption may be yours."
 msgstr ""
 
-#: ../npcs/florin.txt:34
+#: ../npcs/florin.txt:35
 msgid "Gravebloom"
 msgstr ""
 
-#: ../npcs/florin.txt:37
+#: ../npcs/florin.txt:39
 msgid "Ah yes, that is most certainly a gravebloom flower. It is the primary component in the creation of gravebloom ink."
 msgstr ""
 
-#: ../npcs/florin.txt:40
+#: ../npcs/florin.txt:42
 msgid "Black Quill"
 msgstr ""
 
-#: ../npcs/florin.txt:42
+#: ../npcs/florin.txt:45
 msgid "Do you think this quill is capable of holding gravebloom ink?"
 msgstr ""
 
-#: ../npcs/florin.txt:43
+#: ../npcs/florin.txt:46
 msgid "It's certainly no normal quill. I've never seen anything like it."
 msgstr ""
 
-#: ../npcs/florin.txt:45
+#: ../npcs/florin.txt:48
 msgid "If anything is capable of writing with gravebloom ink, it is that quill."
+msgstr ""
+
+#: ../npcs/florin.txt:51
+msgid "Knife of Sacrifices"
+msgstr ""
+
+#: ../npcs/florin.txt:54
+msgid "Do you know anything about this knife?"
+msgstr ""
+
+#: ../npcs/florin.txt:56
+msgid "The Knife of Sacrifices. This must be the blade you will need to draw your blood for the gravebloom ink. From what I've read, this must be done at the \"Red Altar\"."
+msgstr ""
+
+#: ../npcs/florin.txt:57
+msgid "I recall such an altar from the Temple of Mez."
+msgstr ""
+
+#: ../npcs/florin.txt:58
+msgid "I don't know why this blade in particular is required to make the ink. Once it pierces your skin, there is no telling what effect it will have on you. Please keep this in mind."
+msgstr ""
+
+#: ../npcs/florin.txt:61
+msgid "Vial of Blood"
+msgstr ""
+
+#: ../npcs/florin.txt:64
+msgid "I completed the ritual at the Red Altar. What now?"
+msgstr ""
+
+#: ../npcs/florin.txt:65
+msgid "We are ready to create a small amount of gravebloom ink. Allow me to perform the mixing."
+msgstr ""
+
+#: ../npcs/florin.txt:66
+msgid "The correct ratio of Gravebloom to blood is important. Too much Gravebloom will cause the ink to eat through the paper. Too little Gravebloom and the ink won't adhere to the quill."
+msgstr ""
+
+#: ../npcs/florin.txt:67
+msgid "(Florin carefully mixes the two elements into a small inkwell, alternating the additions of Gravebloom and blood)."
+msgstr ""
+
+#: ../npcs/florin.txt:72
+msgid "Finished! I don't want my work to go to waste, so move now to the Book of the Dead chamber."
+msgstr ""
+
+#: ../npcs/florin.txt:77
+msgid "The ritual is complete. The Underworld is open to you."
+msgstr ""
+
+#: ../npcs/florin.txt:78
+msgid "There was a portal to the Underworld in the Wizard's Tower. I shall return there."
 msgstr ""
 
 #: ../npcs/glowing_obelisk_1.txt:1
@@ -1403,35 +1563,35 @@ msgstr ""
 msgid "Yora, Enchanter"
 msgstr ""
 
-#: ../cutscenes/backstory.txt:5
+#: ../cutscenes/backstory.txt:7
 msgid "Empyrean, the city in the sky. It is a majestic fortress and the last bastion of humankind."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:7
+#: ../cutscenes/backstory.txt:9
 msgid "At the height of the kingdom's power the city was a beacon of peace and law."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:9
+#: ../cutscenes/backstory.txt:11
 msgid "When darkness invaded the world in the last age people abandoned the surface. Empyrean was their only refuge."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:11
+#: ../cutscenes/backstory.txt:13
 msgid "Now the Age of Humanity is ending. Empyrean is crumbling. Scarcity and political infighting have consumed the city."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:13
+#: ../cutscenes/backstory.txt:16
 msgid "Some, in desperation, flee to the surface hoping to survive without the protection of the city."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:15
+#: ../cutscenes/backstory.txt:18
 msgid "But no one returns from the surface. Most die or go missing. A few hide and survive, for a while."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:17
+#: ../cutscenes/backstory.txt:20
 msgid "Surface dwellers cling to hope. Hope that they'll return to Empyrean some day. Hope that a hero will fight back against the darkness."
 msgstr ""
 
-#: ../cutscenes/backstory.txt:19
+#: ../cutscenes/backstory.txt:22
 msgid "There is always hope. But not for everyone: not for you. Not for the Exiled."
 msgstr ""
 
@@ -1468,26 +1628,30 @@ msgid "rubberduck"
 msgstr ""
 
 #: ../cutscenes/credits.txt:22
-msgid "Stefano Peris"
+msgid "Short-Ribs"
 msgstr ""
 
 #: ../cutscenes/credits.txt:23
-msgid "VWolfDog"
+msgid "Stefano Peris"
 msgstr ""
 
 #: ../cutscenes/credits.txt:24
+msgid "VWolfDog"
+msgstr ""
+
+#: ../cutscenes/credits.txt:25
 msgid "yd"
 msgstr ""
 
-#: ../cutscenes/credits.txt:27
+#: ../cutscenes/credits.txt:28
 msgid "Foley Artists"
 msgstr ""
 
-#: ../cutscenes/credits.txt:29
+#: ../cutscenes/credits.txt:30
 msgid "adamgryu"
 msgstr ""
 
-#: ../cutscenes/credits.txt:30
+#: ../cutscenes/credits.txt:31
 msgid "GuntherDorksen"
 msgstr ""
 
@@ -1567,406 +1731,6 @@ msgstr ""
 msgid "-K"
 msgstr ""
 
-#: ../items/categories/level_4.txt:5
-msgid "Warlord Cloth Shirt"
-msgstr ""
-
-#: ../items/categories/level_4.txt:17
-msgid "Sniper Cloth Shirt"
-msgstr ""
-
-#: ../items/categories/level_4.txt:29
-msgid "Archwizard Cloth Shirt"
-msgstr ""
-
-#: ../items/categories/level_4.txt:41
-msgid "Warlord Cloth Pants"
-msgstr ""
-
-#: ../items/categories/level_4.txt:53
-msgid "Sniper Cloth Pants"
-msgstr ""
-
-#: ../items/categories/level_4.txt:65
-msgid "Archwizard Cloth Pants"
-msgstr ""
-
-#: ../items/categories/level_4.txt:77
-msgid "Warlord Cloth Sandals"
-msgstr ""
-
-#: ../items/categories/level_4.txt:89
-msgid "Sniper Cloth Sandals"
-msgstr ""
-
-#: ../items/categories/level_4.txt:101
-msgid "Archwizard Cloth Sandals"
-msgstr ""
-
-#: ../items/categories/level_4.txt:113
-msgid "Warlord Cloth Gloves"
-msgstr ""
-
-#: ../items/categories/level_4.txt:125
-msgid "Sniper Cloth Gloves"
-msgstr ""
-
-#: ../items/categories/level_4.txt:137
-msgid "Archwizard Cloth Gloves"
-msgstr ""
-
-#: ../items/categories/level_4.txt:149
-msgid "Master Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_4.txt:160
-msgid "Master Pendant"
-msgstr ""
-
-#: ../items/categories/level_4.txt:171
-msgid "Master Spellbook"
-msgstr ""
-
-#: ../items/categories/level_4.txt:182
-msgid "Warlord Dagger"
-msgstr ""
-
-#: ../items/categories/level_4.txt:194
-msgid "Sniper Slingshot"
-msgstr ""
-
-#: ../items/categories/level_4.txt:206
-msgid "Archwizard Wand"
-msgstr ""
-
-#: ../items/categories/level_4.txt:218
-msgid "Templar Wood Buckler"
-msgstr ""
-
-#: ../items/categories/level_4.txt:229
-msgid "Master Fire Ring"
-msgstr ""
-
-#: ../items/categories/level_4.txt:239
-msgid "Master Ice Ring"
-msgstr ""
-
-#: ../items/categories/level_4.txt:249
-msgid "Master Lightning Ring"
-msgstr ""
-
-#: ../items/categories/level_4.txt:259
-msgid "Master Dark Ring"
-msgstr ""
-
-#: ../items/categories/level_4.txt:269
-msgid "Master Experience Ring"
-msgstr ""
-
-#: ../items/categories/level_4.txt:279
-msgid "Master Wealth Ring"
-msgstr ""
-
-#: ../items/categories/level_4.txt:289
-msgid "Master Treasure Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:5
-msgid "Warrior Plate Helmet"
-msgstr ""
-
-#: ../items/categories/level_15.txt:17
-msgid "Ranger Plate Helmet"
-msgstr ""
-
-#: ../items/categories/level_15.txt:29
-msgid "Wizard Velvet Hood"
-msgstr ""
-
-#: ../items/categories/level_15.txt:41
-msgid "Warrior Plate Curiass"
-msgstr ""
-
-#: ../items/categories/level_15.txt:53
-msgid "Ranger Plate Curiass"
-msgstr ""
-
-#: ../items/categories/level_15.txt:65
-msgid "Wizard Velvet Vest"
-msgstr ""
-
-#: ../items/categories/level_15.txt:77
-msgid "Warrior Plate Greaves"
-msgstr ""
-
-#: ../items/categories/level_15.txt:89
-msgid "Ranger Plate Greaves"
-msgstr ""
-
-#: ../items/categories/level_15.txt:101
-msgid "Wizard Velvet Skirt"
-msgstr ""
-
-#: ../items/categories/level_15.txt:113
-msgid "Warrior Plate Boots"
-msgstr ""
-
-#: ../items/categories/level_15.txt:125
-msgid "Ranger Plate Boots"
-msgstr ""
-
-#: ../items/categories/level_15.txt:137
-msgid "Wizard Velvet Boots"
-msgstr ""
-
-#: ../items/categories/level_15.txt:149
-msgid "Warrior Plate Gauntlets"
-msgstr ""
-
-#: ../items/categories/level_15.txt:161
-msgid "Ranger Plate Gauntlets"
-msgstr ""
-
-#: ../items/categories/level_15.txt:173
-msgid "Wizard Velvet Sleeves"
-msgstr ""
-
-#: ../items/categories/level_15.txt:185
-msgid "Adventurer Warlord Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_15.txt:196
-msgid "Adventurer Sniper Pendant"
-msgstr ""
-
-#: ../items/categories/level_15.txt:207
-msgid "Adventurer Archwizard Spellbook"
-msgstr ""
-
-#: ../items/categories/level_15.txt:218
-msgid "Warrior Greatsword"
-msgstr ""
-
-#: ../items/categories/level_15.txt:230
-msgid "Ranger Greatbow"
-msgstr ""
-
-#: ../items/categories/level_15.txt:242
-msgid "Wizard Greatstaff"
-msgstr ""
-
-#: ../items/categories/level_15.txt:254
-msgid "Paladin Tower Shield"
-msgstr ""
-
-#: ../items/categories/level_15.txt:265
-msgid "Adventurer Inferno Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:275
-msgid "Adventurer Glacial Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:285
-msgid "Adventurer Volt Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:295
-msgid "Adventurer Void Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:305
-msgid "Adventurer Scholar Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:315
-msgid "Adventurer Affluence Ring"
-msgstr ""
-
-#: ../items/categories/level_15.txt:325
-msgid "Adventurer Relic Ring"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:3
-msgid "Krolan's Hammer"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:4
-msgid "An essential tool for any blacksmith."
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:18
-msgid "Goblin Branch"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:19
-msgid "Mana flows inside its primitive exterior."
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:33
-msgid "Ardwen's Gloves"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:34
-msgid "These hands built a village."
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:49
-msgid "Blood Tunic"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:50
-msgid "When worn, this shirt heats the wearers veins."
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:63
-msgid "Dark Steppers"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:64
-msgid "Dancing through the shadows."
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:77
-msgid "Seagate's Tri-pants"
-msgstr ""
-
-#: ../items/categories/level_4_unique.txt:78
-msgid "These ragged trousers are covered in scorch marks, yet are cold to the touch."
-msgstr ""
-
-#: ../items/categories/potions.txt:5
-msgid "Health Potion"
-msgstr ""
-
-#: ../items/categories/potions.txt:8
-msgid "Restore 25% of maximum HP"
-msgstr ""
-
-#: ../items/categories/potions.txt:15
-msgid "Mana Potion"
-msgstr ""
-
-#: ../items/categories/potions.txt:18
-msgid "Restore 25% of maximum MP"
-msgstr ""
-
-#: ../items/categories/level_6.txt:5
-msgid "Fighting Leather Hood"
-msgstr ""
-
-#: ../items/categories/level_6.txt:17
-msgid "Recon Leather Hood"
-msgstr ""
-
-#: ../items/categories/level_6.txt:29
-msgid "Sorcerer Wool Hood"
-msgstr ""
-
-#: ../items/categories/level_6.txt:41
-msgid "Fighting Leather Tunic"
-msgstr ""
-
-#: ../items/categories/level_6.txt:53
-msgid "Recon Leather Tunic"
-msgstr ""
-
-#: ../items/categories/level_6.txt:65
-msgid "Sorcerer Wool Vest"
-msgstr ""
-
-#: ../items/categories/level_6.txt:77
-msgid "Fighting Leather Pants"
-msgstr ""
-
-#: ../items/categories/level_6.txt:89
-msgid "Recon Leather Pants"
-msgstr ""
-
-#: ../items/categories/level_6.txt:101
-msgid "Sorcerer Wool Skirt"
-msgstr ""
-
-#: ../items/categories/level_6.txt:113
-msgid "Fighting Leather Boots"
-msgstr ""
-
-#: ../items/categories/level_6.txt:125
-msgid "Recon Leather Boots"
-msgstr ""
-
-#: ../items/categories/level_6.txt:137
-msgid "Sorcerer Wool Boots"
-msgstr ""
-
-#: ../items/categories/level_6.txt:149
-msgid "Fighting Leather Gloves"
-msgstr ""
-
-#: ../items/categories/level_6.txt:161
-msgid "Recon Leather Gloves"
-msgstr ""
-
-#: ../items/categories/level_6.txt:173
-msgid "Sorcerer Wool Sleeves"
-msgstr ""
-
-#: ../items/categories/level_6.txt:185
-msgid "Wandering Fighting Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_6.txt:196
-msgid "Wandering Recon Pendant"
-msgstr ""
-
-#: ../items/categories/level_6.txt:207
-msgid "Wandering Sorcerer Spellbook"
-msgstr ""
-
-#: ../items/categories/level_6.txt:218
-msgid "Fighting Shortsword"
-msgstr ""
-
-#: ../items/categories/level_6.txt:230
-msgid "Recon Shortbow"
-msgstr ""
-
-#: ../items/categories/level_6.txt:242
-msgid "Sorcerer Rod"
-msgstr ""
-
-#: ../items/categories/level_6.txt:254
-msgid "Keeper Iron Buckler"
-msgstr ""
-
-#: ../items/categories/level_6.txt:265
-msgid "Wandering Burn Ring"
-msgstr ""
-
-#: ../items/categories/level_6.txt:275
-msgid "Wandering Frost Ring"
-msgstr ""
-
-#: ../items/categories/level_6.txt:285
-msgid "Wandering Electric Ring"
-msgstr ""
-
-#: ../items/categories/level_6.txt:295
-msgid "Wandering Shadow Ring"
-msgstr ""
-
-#: ../items/categories/level_6.txt:305
-msgid "Wandering Knowledge Ring"
-msgstr ""
-
-#: ../items/categories/level_6.txt:315
-msgid "Wandering Prosperity Ring"
-msgstr ""
-
-#: ../items/categories/level_6.txt:325
-msgid "Wandering Loot Ring"
-msgstr ""
-
 #: ../items/categories/level_8_unique.txt:3
 msgid "Amir Blade"
 msgstr ""
@@ -2013,814 +1777,6 @@ msgstr ""
 
 #: ../items/categories/level_8_unique.txt:79
 msgid "With its layers of reptilian skin, not much can penetrate this armor."
-msgstr ""
-
-#: ../items/categories/level_12.txt:5
-msgid "Warlord Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_12.txt:17
-msgid "Sniper Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_12.txt:29
-msgid "Archwizard Silk Hood"
-msgstr ""
-
-#: ../items/categories/level_12.txt:41
-msgid "Warlord Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_12.txt:53
-msgid "Sniper Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_12.txt:65
-msgid "Archwizard Silk Vest"
-msgstr ""
-
-#: ../items/categories/level_12.txt:77
-msgid "Warlord Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_12.txt:89
-msgid "Sniper Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_12.txt:101
-msgid "Archwizard Silk Skirt"
-msgstr ""
-
-#: ../items/categories/level_12.txt:113
-msgid "Warlord Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_12.txt:125
-msgid "Sniper Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_12.txt:137
-msgid "Archwizard Silk Boots"
-msgstr ""
-
-#: ../items/categories/level_12.txt:149
-msgid "Warlord Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_12.txt:161
-msgid "Sniper Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_12.txt:173
-msgid "Archwizard Silk Sleeves"
-msgstr ""
-
-#: ../items/categories/level_12.txt:185
-msgid "Master Warrior Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_12.txt:196
-msgid "Master Ranger Pendant"
-msgstr ""
-
-#: ../items/categories/level_12.txt:207
-msgid "Master Wizard Spellbook"
-msgstr ""
-
-#: ../items/categories/level_12.txt:218
-msgid "Warlord Longsword"
-msgstr ""
-
-#: ../items/categories/level_12.txt:230
-msgid "Sniper Longbow"
-msgstr ""
-
-#: ../items/categories/level_12.txt:242
-msgid "Archwizard Staff"
-msgstr ""
-
-#: ../items/categories/level_12.txt:254
-msgid "Templar Crest Shield"
-msgstr ""
-
-#: ../items/categories/level_12.txt:265
-msgid "Master Blaze Ring"
-msgstr ""
-
-#: ../items/categories/level_12.txt:275
-msgid "Master Freeze Ring"
-msgstr ""
-
-#: ../items/categories/level_12.txt:285
-msgid "Master Shock Ring"
-msgstr ""
-
-#: ../items/categories/level_12.txt:295
-msgid "Master Gloom Ring"
-msgstr ""
-
-#: ../items/categories/level_12.txt:305
-msgid "Master Intellectual Ring"
-msgstr ""
-
-#: ../items/categories/level_12.txt:315
-msgid "Master Lucrative Ring"
-msgstr ""
-
-#: ../items/categories/level_12.txt:325
-msgid "Master Artifact Ring"
-msgstr ""
-
-#: ../items/categories/scrolls.txt:5
-msgid "Summon Zombie Scroll"
-msgstr ""
-
-#: ../items/categories/scrolls.txt:8
-msgid "Use: Summon Zombie"
-msgstr ""
-
-#: ../items/categories/level_7.txt:5
-msgid "Warrior Leather Hood"
-msgstr ""
-
-#: ../items/categories/level_7.txt:17
-msgid "Ranger Leather Hood"
-msgstr ""
-
-#: ../items/categories/level_7.txt:29
-msgid "Wizard Wool Hood"
-msgstr ""
-
-#: ../items/categories/level_7.txt:41
-msgid "Warrior Leather Tunic"
-msgstr ""
-
-#: ../items/categories/level_7.txt:53
-msgid "Ranger Leather Tunic"
-msgstr ""
-
-#: ../items/categories/level_7.txt:65
-msgid "Wizard Wool Vest"
-msgstr ""
-
-#: ../items/categories/level_7.txt:77
-msgid "Warrior Leather Pants"
-msgstr ""
-
-#: ../items/categories/level_7.txt:89
-msgid "Ranger Leather Pants"
-msgstr ""
-
-#: ../items/categories/level_7.txt:101
-msgid "Wizard Wool Skirt"
-msgstr ""
-
-#: ../items/categories/level_7.txt:113
-msgid "Warrior Leather Boots"
-msgstr ""
-
-#: ../items/categories/level_7.txt:125
-msgid "Ranger Leather Boots"
-msgstr ""
-
-#: ../items/categories/level_7.txt:137
-msgid "Wizard Wool Boots"
-msgstr ""
-
-#: ../items/categories/level_7.txt:149
-msgid "Warrior Leather Gloves"
-msgstr ""
-
-#: ../items/categories/level_7.txt:161
-msgid "Ranger Leather Gloves"
-msgstr ""
-
-#: ../items/categories/level_7.txt:173
-msgid "Wizard Wool Sleeves"
-msgstr ""
-
-#: ../items/categories/level_7.txt:185
-msgid "Adventurer Fighting Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_7.txt:196
-msgid "Adventurer Recon Pendant"
-msgstr ""
-
-#: ../items/categories/level_7.txt:207
-msgid "Adventurer Sorcerer Spellbook"
-msgstr ""
-
-#: ../items/categories/level_7.txt:218
-msgid "Warrior Shortsword"
-msgstr ""
-
-#: ../items/categories/level_7.txt:230
-msgid "Ranger Shortbow"
-msgstr ""
-
-#: ../items/categories/level_7.txt:242
-msgid "Wizard Rod"
-msgstr ""
-
-#: ../items/categories/level_7.txt:254
-msgid "Paladin Iron Buckler"
-msgstr ""
-
-#: ../items/categories/level_7.txt:265
-msgid "Adventurer Burn Ring"
-msgstr ""
-
-#: ../items/categories/level_7.txt:275
-msgid "Adventurer Frost Ring"
-msgstr ""
-
-#: ../items/categories/level_7.txt:285
-msgid "Adventurer Electric Ring"
-msgstr ""
-
-#: ../items/categories/level_7.txt:295
-msgid "Adventurer Shadow Ring"
-msgstr ""
-
-#: ../items/categories/level_7.txt:305
-msgid "Adventurer Knowledge Ring"
-msgstr ""
-
-#: ../items/categories/level_7.txt:315
-msgid "Adventurer Prosperity Ring"
-msgstr ""
-
-#: ../items/categories/level_7.txt:325
-msgid "Adventurer Loot Ring"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:5
-msgid "Lost Totem"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:6
-msgid "The ancient scripture contained appears to be some sort of magic."
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:20
-msgid "Mog's Axe"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:21
-msgid "Not as sleek as an arrow, but just as effective."
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:35
-msgid "Guardsman Curiass"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:36
-msgid "A royal mail with a 'K' engraved on the breast."
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:52
-msgid "Inferno Pendant"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:53
-msgid "Hot. Hot. Hot."
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:67
-msgid "Alchemist's Skirt"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:68
-msgid "Knowledge of formulating many concoctions bestows its wearer."
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:77
-msgid "Drinking potions may create another potion of the same type."
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:86
-msgid "Metzger's Battlemace"
-msgstr ""
-
-#: ../items/categories/level_12_unique.txt:87
-msgid "Swinging this mace around leaves a clouded trail of dark smoke."
-msgstr ""
-
-#: ../items/categories/level_16.txt:5
-msgid "Warlord Plate Helmet"
-msgstr ""
-
-#: ../items/categories/level_16.txt:17
-msgid "Sniper Plate Helmet"
-msgstr ""
-
-#: ../items/categories/level_16.txt:29
-msgid "Archwizard Velvet Hood"
-msgstr ""
-
-#: ../items/categories/level_16.txt:41
-msgid "Warlord Plate Curiass"
-msgstr ""
-
-#: ../items/categories/level_16.txt:53
-msgid "Sniper Plate Curiass"
-msgstr ""
-
-#: ../items/categories/level_16.txt:65
-msgid "Archwizard Velvet Vest"
-msgstr ""
-
-#: ../items/categories/level_16.txt:77
-msgid "Warlord Plate Greaves"
-msgstr ""
-
-#: ../items/categories/level_16.txt:89
-msgid "Sniper Plate Greaves"
-msgstr ""
-
-#: ../items/categories/level_16.txt:101
-msgid "Archwizard Velvet Skirt"
-msgstr ""
-
-#: ../items/categories/level_16.txt:113
-msgid "Warlord Plate Boots"
-msgstr ""
-
-#: ../items/categories/level_16.txt:125
-msgid "Sniper Plate Boots"
-msgstr ""
-
-#: ../items/categories/level_16.txt:137
-msgid "Archwizard Velvet Boots"
-msgstr ""
-
-#: ../items/categories/level_16.txt:149
-msgid "Warlord Plate Gauntlets"
-msgstr ""
-
-#: ../items/categories/level_16.txt:161
-msgid "Sniper Plate Gauntlets"
-msgstr ""
-
-#: ../items/categories/level_16.txt:173
-msgid "Archwizard Velvet Sleeves"
-msgstr ""
-
-#: ../items/categories/level_16.txt:185
-msgid "Master Warlord Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_16.txt:196
-msgid "Master Sniper Pendant"
-msgstr ""
-
-#: ../items/categories/level_16.txt:207
-msgid "Master Archwizard Spellbook"
-msgstr ""
-
-#: ../items/categories/level_16.txt:218
-msgid "Warlord Greatsword"
-msgstr ""
-
-#: ../items/categories/level_16.txt:230
-msgid "Sniper Greatbow"
-msgstr ""
-
-#: ../items/categories/level_16.txt:242
-msgid "Archwizard Greatstaff"
-msgstr ""
-
-#: ../items/categories/level_16.txt:254
-msgid "Templar Tower Shield"
-msgstr ""
-
-#: ../items/categories/level_16.txt:265
-msgid "Master Inferno Ring"
-msgstr ""
-
-#: ../items/categories/level_16.txt:275
-msgid "Master Glacial Ring"
-msgstr ""
-
-#: ../items/categories/level_16.txt:285
-msgid "Master Volt Ring"
-msgstr ""
-
-#: ../items/categories/level_16.txt:295
-msgid "Master Void Ring"
-msgstr ""
-
-#: ../items/categories/level_16.txt:305
-msgid "Master Scholar Ring"
-msgstr ""
-
-#: ../items/categories/level_16.txt:315
-msgid "Master Affluence Ring"
-msgstr ""
-
-#: ../items/categories/level_16.txt:325
-msgid "Master Relic Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:5
-msgid "Warrior Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_11.txt:17
-msgid "Ranger Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_11.txt:29
-msgid "Wizard Silk Hood"
-msgstr ""
-
-#: ../items/categories/level_11.txt:41
-msgid "Warrior Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_11.txt:53
-msgid "Ranger Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_11.txt:65
-msgid "Wizard Silk Vest"
-msgstr ""
-
-#: ../items/categories/level_11.txt:77
-msgid "Warrior Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_11.txt:89
-msgid "Ranger Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_11.txt:101
-msgid "Wizard Silk Skirt"
-msgstr ""
-
-#: ../items/categories/level_11.txt:113
-msgid "Warrior Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_11.txt:125
-msgid "Ranger Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_11.txt:137
-msgid "Wizard Silk Boots"
-msgstr ""
-
-#: ../items/categories/level_11.txt:149
-msgid "Warrior Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_11.txt:161
-msgid "Ranger Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_11.txt:173
-msgid "Wizard Silk Sleeves"
-msgstr ""
-
-#: ../items/categories/level_11.txt:185
-msgid "Adventurer Warrior Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_11.txt:196
-msgid "Adventurer Ranger Pendant"
-msgstr ""
-
-#: ../items/categories/level_11.txt:207
-msgid "Adventurer Wizard Spellbook"
-msgstr ""
-
-#: ../items/categories/level_11.txt:218
-msgid "Warrior Longsword"
-msgstr ""
-
-#: ../items/categories/level_11.txt:230
-msgid "Ranger Longbow"
-msgstr ""
-
-#: ../items/categories/level_11.txt:242
-msgid "Wizard Staff"
-msgstr ""
-
-#: ../items/categories/level_11.txt:254
-msgid "Paladin Crest Shield"
-msgstr ""
-
-#: ../items/categories/level_11.txt:265
-msgid "Adventurer Blaze Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:275
-msgid "Adventurer Freeze Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:285
-msgid "Adventurer Shock Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:295
-msgid "Adventurer Gloom Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:305
-msgid "Adventurer Intellectual Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:315
-msgid "Adventurer Lucrative Ring"
-msgstr ""
-
-#: ../items/categories/level_11.txt:325
-msgid "Adventurer Artifact Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:5
-msgid "Fighting Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_10.txt:17
-msgid "Recon Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_10.txt:29
-msgid "Sorcerer Silk Hood"
-msgstr ""
-
-#: ../items/categories/level_10.txt:41
-msgid "Fighting Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_10.txt:53
-msgid "Recon Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_10.txt:65
-msgid "Sorcerer Silk Vest"
-msgstr ""
-
-#: ../items/categories/level_10.txt:77
-msgid "Fighting Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_10.txt:89
-msgid "Recon Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_10.txt:101
-msgid "Sorcerer Silk Skirt"
-msgstr ""
-
-#: ../items/categories/level_10.txt:113
-msgid "Fighting Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_10.txt:125
-msgid "Recon Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_10.txt:137
-msgid "Sorcerer Silk Boots"
-msgstr ""
-
-#: ../items/categories/level_10.txt:149
-msgid "Fighting Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_10.txt:161
-msgid "Recon Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_10.txt:173
-msgid "Sorcerer Silk Sleeves"
-msgstr ""
-
-#: ../items/categories/level_10.txt:185
-msgid "Wandering Warrior Leather Belt"
-msgstr ""
-
-#: ../items/categories/level_10.txt:196
-msgid "Wandering Ranger Pendant"
-msgstr ""
-
-#: ../items/categories/level_10.txt:207
-msgid "Wandering Wizard Spellbook"
-msgstr ""
-
-#: ../items/categories/level_10.txt:218
-msgid "Fighting Longsword"
-msgstr ""
-
-#: ../items/categories/level_10.txt:230
-msgid "Recon Longbow"
-msgstr ""
-
-#: ../items/categories/level_10.txt:242
-msgid "Sorcerer Staff"
-msgstr ""
-
-#: ../items/categories/level_10.txt:254
-msgid "Keeper Crest Shield"
-msgstr ""
-
-#: ../items/categories/level_10.txt:265
-msgid "Wandering Blaze Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:275
-msgid "Wandering Freeze Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:285
-msgid "Wandering Shock Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:295
-msgid "Wandering Gloom Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:305
-msgid "Wandering Intellectual Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:315
-msgid "Wandering Lucrative Ring"
-msgstr ""
-
-#: ../items/categories/level_10.txt:325
-msgid "Wandering Artifact Ring"
-msgstr ""
-
-#: ../items/categories/level_9.txt:5
-msgid "Chain Coif"
-msgstr ""
-
-#: ../items/categories/level_9.txt:14
-msgid "Chain Curiass"
-msgstr ""
-
-#: ../items/categories/level_9.txt:23
-msgid "Chain Greaves"
-msgstr ""
-
-#: ../items/categories/level_9.txt:32
-msgid "Chain Boots"
-msgstr ""
-
-#: ../items/categories/level_9.txt:41
-msgid "Chain Gloves"
-msgstr ""
-
-#: ../items/categories/level_9.txt:50
-msgid "Silk Hood"
-msgstr ""
-
-#: ../items/categories/level_9.txt:59
-msgid "Silk Vest"
-msgstr ""
-
-#: ../items/categories/level_9.txt:68
-msgid "Silk Skirt"
-msgstr ""
-
-#: ../items/categories/level_9.txt:77
-msgid "Silk Boots"
-msgstr ""
-
-#: ../items/categories/level_9.txt:86
-msgid "Silk Sleeves"
-msgstr ""
-
-#: ../items/categories/level_9.txt:95
-msgid "Longsword"
-msgstr ""
-
-#: ../items/categories/level_9.txt:104
-msgid "Longbow"
-msgstr ""
-
-#: ../items/categories/level_9.txt:113
-msgid "Staff"
-msgstr ""
-
-#: ../items/categories/level_9.txt:122
-msgid "Crest Shield"
-msgstr ""
-
-#: ../items/categories/level_13.txt:5
-msgid "Plate Helmet"
-msgstr ""
-
-#: ../items/categories/level_13.txt:14
-msgid "Plate Curiass"
-msgstr ""
-
-#: ../items/categories/level_13.txt:23
-msgid "Plate Greaves"
-msgstr ""
-
-#: ../items/categories/level_13.txt:32
-msgid "Plate Boots"
-msgstr ""
-
-#: ../items/categories/level_13.txt:41
-msgid "Plate Gauntlets"
-msgstr ""
-
-#: ../items/categories/level_13.txt:50
-msgid "Velvet Hood"
-msgstr ""
-
-#: ../items/categories/level_13.txt:59
-msgid "Velvet Vest"
-msgstr ""
-
-#: ../items/categories/level_13.txt:68
-msgid "Velvet Skirt"
-msgstr ""
-
-#: ../items/categories/level_13.txt:77
-msgid "Velvet Boots"
-msgstr ""
-
-#: ../items/categories/level_13.txt:86
-msgid "Velvet Sleeves"
-msgstr ""
-
-#: ../items/categories/level_13.txt:95
-msgid "Greatsword"
-msgstr ""
-
-#: ../items/categories/level_13.txt:104
-msgid "Greatbow"
-msgstr ""
-
-#: ../items/categories/level_13.txt:113
-msgid "Greatstaff"
-msgstr ""
-
-#: ../items/categories/level_13.txt:122
-msgid "Tower Shield"
-msgstr ""
-
-#: ../items/categories/level_5.txt:5
-msgid "Leather Hood"
-msgstr ""
-
-#: ../items/categories/level_5.txt:14
-msgid "Leather Tunic"
-msgstr ""
-
-#: ../items/categories/level_5.txt:23
-msgid "Leather Pants"
-msgstr ""
-
-#: ../items/categories/level_5.txt:32
-msgid "Leather Boots"
-msgstr ""
-
-#: ../items/categories/level_5.txt:41
-msgid "Leather Gloves"
-msgstr ""
-
-#: ../items/categories/level_5.txt:50
-msgid "Wool Hood"
-msgstr ""
-
-#: ../items/categories/level_5.txt:59
-msgid "Wool Vest"
-msgstr ""
-
-#: ../items/categories/level_5.txt:68
-msgid "Wool Skirt"
-msgstr ""
-
-#: ../items/categories/level_5.txt:77
-msgid "Wool Boots"
-msgstr ""
-
-#: ../items/categories/level_5.txt:86
-msgid "Wool Sleeves"
-msgstr ""
-
-#: ../items/categories/level_5.txt:95
-msgid "Shortsword"
-msgstr ""
-
-#: ../items/categories/level_5.txt:104
-msgid "Shortbow"
-msgstr ""
-
-#: ../items/categories/level_5.txt:113
-msgid "Rod"
-msgstr ""
-
-#: ../items/categories/level_5.txt:122
-msgid "Iron Buckler"
 msgstr ""
 
 #: ../items/categories/quest.txt:3
@@ -2939,164 +1895,256 @@ msgstr ""
 msgid "This mysterious black feather has a very sharp follicle, making it a suitable writing utensil."
 msgstr ""
 
-#: ../items/categories/quest.txt:258
-msgid "Knife of Sacrifices"
+#: ../items/categories/quest.txt:261
+msgid "A dark, magical energy flows through the tip of this small blade."
 msgstr ""
 
-#: ../items/categories/quest.txt:266
+#: ../items/categories/quest.txt:268
 msgid "Vial of Your Blood"
 msgstr ""
 
-#: ../items/categories/quest.txt:274
+#: ../items/categories/quest.txt:271
+msgid "Spoils of the Red Altar ritual."
+msgstr ""
+
+#: ../items/categories/quest.txt:278
 msgid "Blood Inkwell"
 msgstr ""
 
-#: ../items/categories/level_1.txt:5
-msgid "Cloth Shirt"
+#: ../items/categories/quest.txt:281
+msgid "According to Florin, this is the only ink capable of being used in the Book of the Dead."
 msgstr ""
 
-#: ../items/categories/level_1.txt:12
-msgid "Cloth Pants"
+#: ../items/categories/level_12.txt:5
+msgid "Warlord Chain Coif"
 msgstr ""
 
-#: ../items/categories/level_1.txt:19
-msgid "Cloth Sandals"
+#: ../items/categories/level_12.txt:17
+msgid "Sniper Chain Coif"
 msgstr ""
 
-#: ../items/categories/level_1.txt:26
-msgid "Cloth Gloves"
+#: ../items/categories/level_12.txt:29
+msgid "Archwizard Silk Hood"
 msgstr ""
 
-#: ../items/categories/level_1.txt:33
-msgid "Dagger"
+#: ../items/categories/level_12.txt:41
+msgid "Warlord Chain Curiass"
 msgstr ""
 
-#: ../items/categories/level_1.txt:42
-msgid "Slingshot"
+#: ../items/categories/level_12.txt:53
+msgid "Sniper Chain Curiass"
 msgstr ""
 
-#: ../items/categories/level_1.txt:51
-msgid "Wand"
+#: ../items/categories/level_12.txt:65
+msgid "Archwizard Silk Vest"
 msgstr ""
 
-#: ../items/categories/level_1.txt:60
-msgid "Wood Buckler"
+#: ../items/categories/level_12.txt:77
+msgid "Warlord Chain Greaves"
 msgstr ""
 
-#: ../items/categories/level_8.txt:5
-msgid "Warlord Leather Hood"
+#: ../items/categories/level_12.txt:89
+msgid "Sniper Chain Greaves"
 msgstr ""
 
-#: ../items/categories/level_8.txt:17
-msgid "Sniper Leather Hood"
+#: ../items/categories/level_12.txt:101
+msgid "Archwizard Silk Skirt"
 msgstr ""
 
-#: ../items/categories/level_8.txt:29
-msgid "Archwizard Wool Hood"
+#: ../items/categories/level_12.txt:113
+msgid "Warlord Chain Boots"
 msgstr ""
 
-#: ../items/categories/level_8.txt:41
-msgid "Warlord Leather Tunic"
+#: ../items/categories/level_12.txt:125
+msgid "Sniper Chain Boots"
 msgstr ""
 
-#: ../items/categories/level_8.txt:53
-msgid "Sniper Leather Tunic"
+#: ../items/categories/level_12.txt:137
+msgid "Archwizard Silk Boots"
 msgstr ""
 
-#: ../items/categories/level_8.txt:65
-msgid "Archwizard Wool Vest"
+#: ../items/categories/level_12.txt:149
+msgid "Warlord Chain Gloves"
 msgstr ""
 
-#: ../items/categories/level_8.txt:77
-msgid "Warlord Leather Pants"
+#: ../items/categories/level_12.txt:161
+msgid "Sniper Chain Gloves"
 msgstr ""
 
-#: ../items/categories/level_8.txt:89
-msgid "Sniper Leather Pants"
+#: ../items/categories/level_12.txt:173
+msgid "Archwizard Silk Sleeves"
 msgstr ""
 
-#: ../items/categories/level_8.txt:101
-msgid "Archwizard Wool Skirt"
+#: ../items/categories/level_12.txt:185
+msgid "Master Warrior Leather Belt"
 msgstr ""
 
-#: ../items/categories/level_8.txt:113
-msgid "Warlord Leather Boots"
+#: ../items/categories/level_12.txt:196
+msgid "Master Ranger Pendant"
 msgstr ""
 
-#: ../items/categories/level_8.txt:125
-msgid "Sniper Leather Boots"
+#: ../items/categories/level_12.txt:207
+msgid "Master Wizard Spellbook"
 msgstr ""
 
-#: ../items/categories/level_8.txt:137
-msgid "Archwizard Wool Boots"
+#: ../items/categories/level_12.txt:218
+msgid "Warlord Longsword"
 msgstr ""
 
-#: ../items/categories/level_8.txt:149
-msgid "Warlord Leather Gloves"
+#: ../items/categories/level_12.txt:230
+msgid "Sniper Longbow"
 msgstr ""
 
-#: ../items/categories/level_8.txt:161
-msgid "Sniper Leather Gloves"
+#: ../items/categories/level_12.txt:242
+msgid "Archwizard Staff"
 msgstr ""
 
-#: ../items/categories/level_8.txt:173
-msgid "Archwizard Wool Sleeves"
+#: ../items/categories/level_12.txt:254
+msgid "Templar Crest Shield"
 msgstr ""
 
-#: ../items/categories/level_8.txt:185
-msgid "Master Fighting Leather Belt"
+#: ../items/categories/level_12.txt:265
+msgid "Master Blaze Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:196
-msgid "Master Recon Pendant"
+#: ../items/categories/level_12.txt:275
+msgid "Master Freeze Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:207
-msgid "Master Sorcerer Spellbook"
+#: ../items/categories/level_12.txt:285
+msgid "Master Shock Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:218
-msgid "Warlord Shortsword"
+#: ../items/categories/level_12.txt:295
+msgid "Master Gloom Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:230
-msgid "Sniper Shortbow"
+#: ../items/categories/level_12.txt:305
+msgid "Master Intellectual Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:242
-msgid "Archwizard Rod"
+#: ../items/categories/level_12.txt:315
+msgid "Master Lucrative Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:254
-msgid "Templar Iron Buckler"
+#: ../items/categories/level_12.txt:325
+msgid "Master Artifact Ring"
 msgstr ""
 
-#: ../items/categories/level_8.txt:265
-msgid "Master Burn Ring"
+#: ../items/categories/level_11.txt:5
+msgid "Warrior Chain Coif"
 msgstr ""
 
-#: ../items/categories/level_8.txt:275
-msgid "Master Frost Ring"
+#: ../items/categories/level_11.txt:17
+msgid "Ranger Chain Coif"
 msgstr ""
 
-#: ../items/categories/level_8.txt:285
-msgid "Master Electric Ring"
+#: ../items/categories/level_11.txt:29
+msgid "Wizard Silk Hood"
 msgstr ""
 
-#: ../items/categories/level_8.txt:295
-msgid "Master Shadow Ring"
+#: ../items/categories/level_11.txt:41
+msgid "Warrior Chain Curiass"
 msgstr ""
 
-#: ../items/categories/level_8.txt:305
-msgid "Master Knowledge Ring"
+#: ../items/categories/level_11.txt:53
+msgid "Ranger Chain Curiass"
 msgstr ""
 
-#: ../items/categories/level_8.txt:315
-msgid "Master Prosperity Ring"
+#: ../items/categories/level_11.txt:65
+msgid "Wizard Silk Vest"
 msgstr ""
 
-#: ../items/categories/level_8.txt:325
-msgid "Master Loot Ring"
+#: ../items/categories/level_11.txt:77
+msgid "Warrior Chain Greaves"
+msgstr ""
+
+#: ../items/categories/level_11.txt:89
+msgid "Ranger Chain Greaves"
+msgstr ""
+
+#: ../items/categories/level_11.txt:101
+msgid "Wizard Silk Skirt"
+msgstr ""
+
+#: ../items/categories/level_11.txt:113
+msgid "Warrior Chain Boots"
+msgstr ""
+
+#: ../items/categories/level_11.txt:125
+msgid "Ranger Chain Boots"
+msgstr ""
+
+#: ../items/categories/level_11.txt:137
+msgid "Wizard Silk Boots"
+msgstr ""
+
+#: ../items/categories/level_11.txt:149
+msgid "Warrior Chain Gloves"
+msgstr ""
+
+#: ../items/categories/level_11.txt:161
+msgid "Ranger Chain Gloves"
+msgstr ""
+
+#: ../items/categories/level_11.txt:173
+msgid "Wizard Silk Sleeves"
+msgstr ""
+
+#: ../items/categories/level_11.txt:185
+msgid "Adventurer Warrior Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_11.txt:196
+msgid "Adventurer Ranger Pendant"
+msgstr ""
+
+#: ../items/categories/level_11.txt:207
+msgid "Adventurer Wizard Spellbook"
+msgstr ""
+
+#: ../items/categories/level_11.txt:218
+msgid "Warrior Longsword"
+msgstr ""
+
+#: ../items/categories/level_11.txt:230
+msgid "Ranger Longbow"
+msgstr ""
+
+#: ../items/categories/level_11.txt:242
+msgid "Wizard Staff"
+msgstr ""
+
+#: ../items/categories/level_11.txt:254
+msgid "Paladin Crest Shield"
+msgstr ""
+
+#: ../items/categories/level_11.txt:265
+msgid "Adventurer Blaze Ring"
+msgstr ""
+
+#: ../items/categories/level_11.txt:275
+msgid "Adventurer Freeze Ring"
+msgstr ""
+
+#: ../items/categories/level_11.txt:285
+msgid "Adventurer Shock Ring"
+msgstr ""
+
+#: ../items/categories/level_11.txt:295
+msgid "Adventurer Gloom Ring"
+msgstr ""
+
+#: ../items/categories/level_11.txt:305
+msgid "Adventurer Intellectual Ring"
+msgstr ""
+
+#: ../items/categories/level_11.txt:315
+msgid "Adventurer Lucrative Ring"
+msgstr ""
+
+#: ../items/categories/level_11.txt:325
+msgid "Adventurer Artifact Ring"
 msgstr ""
 
 #: ../items/categories/level_2.txt:5
@@ -3203,6 +2251,142 @@ msgstr ""
 msgid "Wandering Treasure Ring"
 msgstr ""
 
+#: ../items/categories/level_4.txt:5
+msgid "Warlord Cloth Shirt"
+msgstr ""
+
+#: ../items/categories/level_4.txt:17
+msgid "Sniper Cloth Shirt"
+msgstr ""
+
+#: ../items/categories/level_4.txt:29
+msgid "Archwizard Cloth Shirt"
+msgstr ""
+
+#: ../items/categories/level_4.txt:41
+msgid "Warlord Cloth Pants"
+msgstr ""
+
+#: ../items/categories/level_4.txt:53
+msgid "Sniper Cloth Pants"
+msgstr ""
+
+#: ../items/categories/level_4.txt:65
+msgid "Archwizard Cloth Pants"
+msgstr ""
+
+#: ../items/categories/level_4.txt:77
+msgid "Warlord Cloth Sandals"
+msgstr ""
+
+#: ../items/categories/level_4.txt:89
+msgid "Sniper Cloth Sandals"
+msgstr ""
+
+#: ../items/categories/level_4.txt:101
+msgid "Archwizard Cloth Sandals"
+msgstr ""
+
+#: ../items/categories/level_4.txt:113
+msgid "Warlord Cloth Gloves"
+msgstr ""
+
+#: ../items/categories/level_4.txt:125
+msgid "Sniper Cloth Gloves"
+msgstr ""
+
+#: ../items/categories/level_4.txt:137
+msgid "Archwizard Cloth Gloves"
+msgstr ""
+
+#: ../items/categories/level_4.txt:149
+msgid "Master Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_4.txt:160
+msgid "Master Pendant"
+msgstr ""
+
+#: ../items/categories/level_4.txt:171
+msgid "Master Spellbook"
+msgstr ""
+
+#: ../items/categories/level_4.txt:182
+msgid "Warlord Dagger"
+msgstr ""
+
+#: ../items/categories/level_4.txt:194
+msgid "Sniper Slingshot"
+msgstr ""
+
+#: ../items/categories/level_4.txt:206
+msgid "Archwizard Wand"
+msgstr ""
+
+#: ../items/categories/level_4.txt:218
+msgid "Templar Wood Buckler"
+msgstr ""
+
+#: ../items/categories/level_4.txt:229
+msgid "Master Fire Ring"
+msgstr ""
+
+#: ../items/categories/level_4.txt:239
+msgid "Master Ice Ring"
+msgstr ""
+
+#: ../items/categories/level_4.txt:249
+msgid "Master Lightning Ring"
+msgstr ""
+
+#: ../items/categories/level_4.txt:259
+msgid "Master Dark Ring"
+msgstr ""
+
+#: ../items/categories/level_4.txt:269
+msgid "Master Experience Ring"
+msgstr ""
+
+#: ../items/categories/level_4.txt:279
+msgid "Master Wealth Ring"
+msgstr ""
+
+#: ../items/categories/level_4.txt:289
+msgid "Master Treasure Ring"
+msgstr ""
+
+#: ../items/categories/level_1.txt:5
+msgid "Cloth Shirt"
+msgstr ""
+
+#: ../items/categories/level_1.txt:12
+msgid "Cloth Pants"
+msgstr ""
+
+#: ../items/categories/level_1.txt:19
+msgid "Cloth Sandals"
+msgstr ""
+
+#: ../items/categories/level_1.txt:26
+msgid "Cloth Gloves"
+msgstr ""
+
+#: ../items/categories/level_1.txt:33
+msgid "Dagger"
+msgstr ""
+
+#: ../items/categories/level_1.txt:42
+msgid "Slingshot"
+msgstr ""
+
+#: ../items/categories/level_1.txt:51
+msgid "Wand"
+msgstr ""
+
+#: ../items/categories/level_1.txt:60
+msgid "Wood Buckler"
+msgstr ""
+
 #: ../items/categories/level_3.txt:5
 msgid "Warrior Cloth Shirt"
 msgstr ""
@@ -3305,6 +2489,234 @@ msgstr ""
 
 #: ../items/categories/level_3.txt:251
 msgid "Adventurer Treasure Ring"
+msgstr ""
+
+#: ../items/categories/level_13.txt:5
+msgid "Plate Helmet"
+msgstr ""
+
+#: ../items/categories/level_13.txt:14
+msgid "Plate Curiass"
+msgstr ""
+
+#: ../items/categories/level_13.txt:23
+msgid "Plate Greaves"
+msgstr ""
+
+#: ../items/categories/level_13.txt:32
+msgid "Plate Boots"
+msgstr ""
+
+#: ../items/categories/level_13.txt:41
+msgid "Plate Gauntlets"
+msgstr ""
+
+#: ../items/categories/level_13.txt:50
+msgid "Velvet Hood"
+msgstr ""
+
+#: ../items/categories/level_13.txt:59
+msgid "Velvet Vest"
+msgstr ""
+
+#: ../items/categories/level_13.txt:68
+msgid "Velvet Skirt"
+msgstr ""
+
+#: ../items/categories/level_13.txt:77
+msgid "Velvet Boots"
+msgstr ""
+
+#: ../items/categories/level_13.txt:86
+msgid "Velvet Sleeves"
+msgstr ""
+
+#: ../items/categories/level_13.txt:95
+msgid "Greatsword"
+msgstr ""
+
+#: ../items/categories/level_13.txt:104
+msgid "Greatbow"
+msgstr ""
+
+#: ../items/categories/level_13.txt:113
+msgid "Greatstaff"
+msgstr ""
+
+#: ../items/categories/level_13.txt:122
+msgid "Tower Shield"
+msgstr ""
+
+#: ../items/categories/level_9.txt:5
+msgid "Chain Coif"
+msgstr ""
+
+#: ../items/categories/level_9.txt:14
+msgid "Chain Curiass"
+msgstr ""
+
+#: ../items/categories/level_9.txt:23
+msgid "Chain Greaves"
+msgstr ""
+
+#: ../items/categories/level_9.txt:32
+msgid "Chain Boots"
+msgstr ""
+
+#: ../items/categories/level_9.txt:41
+msgid "Chain Gloves"
+msgstr ""
+
+#: ../items/categories/level_9.txt:50
+msgid "Silk Hood"
+msgstr ""
+
+#: ../items/categories/level_9.txt:59
+msgid "Silk Vest"
+msgstr ""
+
+#: ../items/categories/level_9.txt:68
+msgid "Silk Skirt"
+msgstr ""
+
+#: ../items/categories/level_9.txt:77
+msgid "Silk Boots"
+msgstr ""
+
+#: ../items/categories/level_9.txt:86
+msgid "Silk Sleeves"
+msgstr ""
+
+#: ../items/categories/level_9.txt:95
+msgid "Longsword"
+msgstr ""
+
+#: ../items/categories/level_9.txt:104
+msgid "Longbow"
+msgstr ""
+
+#: ../items/categories/level_9.txt:113
+msgid "Staff"
+msgstr ""
+
+#: ../items/categories/level_9.txt:122
+msgid "Crest Shield"
+msgstr ""
+
+#: ../items/categories/level_6.txt:5
+msgid "Fighting Leather Hood"
+msgstr ""
+
+#: ../items/categories/level_6.txt:17
+msgid "Recon Leather Hood"
+msgstr ""
+
+#: ../items/categories/level_6.txt:29
+msgid "Sorcerer Wool Hood"
+msgstr ""
+
+#: ../items/categories/level_6.txt:41
+msgid "Fighting Leather Tunic"
+msgstr ""
+
+#: ../items/categories/level_6.txt:53
+msgid "Recon Leather Tunic"
+msgstr ""
+
+#: ../items/categories/level_6.txt:65
+msgid "Sorcerer Wool Vest"
+msgstr ""
+
+#: ../items/categories/level_6.txt:77
+msgid "Fighting Leather Pants"
+msgstr ""
+
+#: ../items/categories/level_6.txt:89
+msgid "Recon Leather Pants"
+msgstr ""
+
+#: ../items/categories/level_6.txt:101
+msgid "Sorcerer Wool Skirt"
+msgstr ""
+
+#: ../items/categories/level_6.txt:113
+msgid "Fighting Leather Boots"
+msgstr ""
+
+#: ../items/categories/level_6.txt:125
+msgid "Recon Leather Boots"
+msgstr ""
+
+#: ../items/categories/level_6.txt:137
+msgid "Sorcerer Wool Boots"
+msgstr ""
+
+#: ../items/categories/level_6.txt:149
+msgid "Fighting Leather Gloves"
+msgstr ""
+
+#: ../items/categories/level_6.txt:161
+msgid "Recon Leather Gloves"
+msgstr ""
+
+#: ../items/categories/level_6.txt:173
+msgid "Sorcerer Wool Sleeves"
+msgstr ""
+
+#: ../items/categories/level_6.txt:185
+msgid "Wandering Fighting Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_6.txt:196
+msgid "Wandering Recon Pendant"
+msgstr ""
+
+#: ../items/categories/level_6.txt:207
+msgid "Wandering Sorcerer Spellbook"
+msgstr ""
+
+#: ../items/categories/level_6.txt:218
+msgid "Fighting Shortsword"
+msgstr ""
+
+#: ../items/categories/level_6.txt:230
+msgid "Recon Shortbow"
+msgstr ""
+
+#: ../items/categories/level_6.txt:242
+msgid "Sorcerer Rod"
+msgstr ""
+
+#: ../items/categories/level_6.txt:254
+msgid "Keeper Iron Buckler"
+msgstr ""
+
+#: ../items/categories/level_6.txt:265
+msgid "Wandering Burn Ring"
+msgstr ""
+
+#: ../items/categories/level_6.txt:275
+msgid "Wandering Frost Ring"
+msgstr ""
+
+#: ../items/categories/level_6.txt:285
+msgid "Wandering Electric Ring"
+msgstr ""
+
+#: ../items/categories/level_6.txt:295
+msgid "Wandering Shadow Ring"
+msgstr ""
+
+#: ../items/categories/level_6.txt:305
+msgid "Wandering Knowledge Ring"
+msgstr ""
+
+#: ../items/categories/level_6.txt:315
+msgid "Wandering Prosperity Ring"
+msgstr ""
+
+#: ../items/categories/level_6.txt:325
+msgid "Wandering Loot Ring"
 msgstr ""
 
 #: ../items/categories/level_14.txt:5
@@ -3423,148 +2835,820 @@ msgstr ""
 msgid "Wandering Relic Ring"
 msgstr ""
 
-#: ../powers/base/ranger/wolfs_eye.txt:1
-msgid "Wolf's Eye"
+#: ../items/categories/level_8.txt:5
+msgid "Warlord Leather Hood"
 msgstr ""
 
-#: ../powers/base/ranger/wolfs_eye.txt:2
-msgid "Improves the ability to hit and critically wound enemies."
+#: ../items/categories/level_8.txt:17
+msgid "Sniper Leather Hood"
 msgstr ""
 
-#: ../powers/base/ranger/shoot.txt:1
-msgid "Shoot"
+#: ../items/categories/level_8.txt:29
+msgid "Archwizard Wool Hood"
 msgstr ""
 
-#: ../powers/base/ranger/shoot.txt:4
-msgid "Basic ranged attack."
+#: ../items/categories/level_8.txt:41
+msgid "Warlord Leather Tunic"
 msgstr ""
 
-#: ../powers/base/ranger/rapid_fire.txt:1
-msgid "Rapid Fire"
+#: ../items/categories/level_8.txt:53
+msgid "Sniper Leather Tunic"
 msgstr ""
 
-#: ../powers/base/ranger/rapid_fire.txt:2
-msgid "Fire five low power missiles in quick succession."
+#: ../items/categories/level_8.txt:65
+msgid "Archwizard Wool Vest"
 msgstr ""
 
-#: ../powers/base/ranger/bear_trap.txt:1
-msgid "Bear Trap"
+#: ../items/categories/level_8.txt:77
+msgid "Warlord Leather Pants"
 msgstr ""
 
-#: ../powers/base/ranger/bear_trap.txt:2
-msgid "This trap deals extra ranged weapon damage and immobilizes the target."
+#: ../items/categories/level_8.txt:89
+msgid "Sniper Leather Pants"
 msgstr ""
 
-#: ../powers/base/ranger/ember_shot.txt:1
-msgid "Ember Shot"
+#: ../items/categories/level_8.txt:101
+msgid "Archwizard Wool Skirt"
 msgstr ""
 
-#: ../powers/base/ranger/ember_shot.txt:2
-msgid "Fire a spray of burning embers at close range. Effective against armored enemies."
+#: ../items/categories/level_8.txt:113
+msgid "Warlord Leather Boots"
 msgstr ""
 
-#: ../powers/base/ranger/multishot.txt:1
-msgid "Multishot"
+#: ../items/categories/level_8.txt:125
+msgid "Sniper Leather Boots"
 msgstr ""
 
-#: ../powers/base/ranger/multishot.txt:2
-msgid "Shoot three projectiles simultaneously."
+#: ../items/categories/level_8.txt:137
+msgid "Archwizard Wool Boots"
 msgstr ""
 
-#: ../powers/base/ranger/caltrops.txt:1
-msgid "Caltrops"
+#: ../items/categories/level_8.txt:149
+msgid "Warlord Leather Gloves"
 msgstr ""
 
-#: ../powers/base/ranger/caltrops.txt:2
-msgid "This trap deals reduced ranged weapon damage and slows the target."
+#: ../items/categories/level_8.txt:161
+msgid "Sniper Leather Gloves"
 msgstr ""
 
-#: ../powers/base/ranger/haste.txt:3
-msgid "Move at an increased speed for a limited time."
+#: ../items/categories/level_8.txt:173
+msgid "Archwizard Wool Sleeves"
 msgstr ""
 
-#: ../powers/base/ranger/piercing_shot.txt:1
-msgid "Piercing Shot"
+#: ../items/categories/level_8.txt:185
+msgid "Master Fighting Leather Belt"
 msgstr ""
 
-#: ../powers/base/ranger/piercing_shot.txt:2
-msgid "Fire a shot that ignores armor and goes through multiple enemies."
+#: ../items/categories/level_8.txt:196
+msgid "Master Recon Pendant"
 msgstr ""
 
-#: ../powers/base/magician/burn.txt:1
-msgid "Burn"
+#: ../items/categories/level_8.txt:207
+msgid "Master Sorcerer Spellbook"
 msgstr ""
 
-#: ../powers/base/magician/burn.txt:4
-msgid "Blast multiple enemies in a distant area with fire."
+#: ../items/categories/level_8.txt:218
+msgid "Warlord Shortsword"
 msgstr ""
 
-#: ../powers/base/magician/ice_bolt.txt:1
-msgid "Ice Bolt"
+#: ../items/categories/level_8.txt:230
+msgid "Sniper Shortbow"
 msgstr ""
 
-#: ../powers/base/magician/ice_bolt.txt:2
-msgid "Launch a chunk of ice that slows enemies."
+#: ../items/categories/level_8.txt:242
+msgid "Archwizard Rod"
 msgstr ""
 
-#: ../powers/base/magician/thunderstrike.txt:1
-msgid "Thunderstrike"
+#: ../items/categories/level_8.txt:254
+msgid "Templar Iron Buckler"
 msgstr ""
 
-#: ../powers/base/magician/thunderstrike.txt:4
-msgid "Lightning strikes from the sky with a high chance to crit movement-impaired enemies."
+#: ../items/categories/level_8.txt:265
+msgid "Master Burn Ring"
 msgstr ""
 
-#: ../powers/base/magician/shock.txt:1
-msgid "Shock"
+#: ../items/categories/level_8.txt:275
+msgid "Master Frost Ring"
 msgstr ""
 
-#: ../powers/base/magician/shock.txt:2
-msgid "Shoot a ball of electricity that is extra effective against movement-impaired enemies."
+#: ../items/categories/level_8.txt:285
+msgid "Master Electric Ring"
 msgstr ""
 
-#: ../powers/base/magician/fireball.txt:1
-msgid "Fireball"
+#: ../items/categories/level_8.txt:295
+msgid "Master Shadow Ring"
 msgstr ""
 
-#: ../powers/base/magician/fireball.txt:2
-msgid "Launch a ball of fire that does extra mental damage."
+#: ../items/categories/level_8.txt:305
+msgid "Master Knowledge Ring"
 msgstr ""
 
-#: ../powers/base/magician/shield.txt:4
-msgid "Create a force field that absorbs damage."
+#: ../items/categories/level_8.txt:315
+msgid "Master Prosperity Ring"
 msgstr ""
 
-#: ../powers/base/magician/energy_flow.txt:1
-msgid "Energy Flow"
+#: ../items/categories/level_8.txt:325
+msgid "Master Loot Ring"
 msgstr ""
 
-#: ../powers/base/magician/energy_flow.txt:2
-msgid "Mana reserves are increased and regenerate faster."
+#: ../items/categories/level_16.txt:5
+msgid "Warlord Plate Helmet"
 msgstr ""
 
-#: ../powers/base/magician/freeze.txt:1
-msgid "Freeze"
+#: ../items/categories/level_16.txt:17
+msgid "Sniper Plate Helmet"
 msgstr ""
 
-#: ../powers/base/magician/freeze.txt:4
-msgid "Create a ray of several piercing cold shards that slow enemies."
+#: ../items/categories/level_16.txt:29
+msgid "Archwizard Velvet Hood"
 msgstr ""
 
-#: ../powers/base/warrior/stone_wall.txt:1
-msgid "Stone Wall"
+#: ../items/categories/level_16.txt:41
+msgid "Warlord Plate Curiass"
 msgstr ""
 
-#: ../powers/base/warrior/stone_wall.txt:2
-msgid "Withstand stronger attacks with more health and absorption."
+#: ../items/categories/level_16.txt:53
+msgid "Sniper Plate Curiass"
 msgstr ""
 
-#: ../powers/base/warrior/throw_knife.txt:1
-msgid "Throw Knife"
+#: ../items/categories/level_16.txt:65
+msgid "Archwizard Velvet Vest"
 msgstr ""
 
-#: ../powers/base/warrior/throw_knife.txt:2
-msgid "Throw a knife to deal reduced melee weapon damage."
+#: ../items/categories/level_16.txt:77
+msgid "Warlord Plate Greaves"
+msgstr ""
+
+#: ../items/categories/level_16.txt:89
+msgid "Sniper Plate Greaves"
+msgstr ""
+
+#: ../items/categories/level_16.txt:101
+msgid "Archwizard Velvet Skirt"
+msgstr ""
+
+#: ../items/categories/level_16.txt:113
+msgid "Warlord Plate Boots"
+msgstr ""
+
+#: ../items/categories/level_16.txt:125
+msgid "Sniper Plate Boots"
+msgstr ""
+
+#: ../items/categories/level_16.txt:137
+msgid "Archwizard Velvet Boots"
+msgstr ""
+
+#: ../items/categories/level_16.txt:149
+msgid "Warlord Plate Gauntlets"
+msgstr ""
+
+#: ../items/categories/level_16.txt:161
+msgid "Sniper Plate Gauntlets"
+msgstr ""
+
+#: ../items/categories/level_16.txt:173
+msgid "Archwizard Velvet Sleeves"
+msgstr ""
+
+#: ../items/categories/level_16.txt:185
+msgid "Master Warlord Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_16.txt:196
+msgid "Master Sniper Pendant"
+msgstr ""
+
+#: ../items/categories/level_16.txt:207
+msgid "Master Archwizard Spellbook"
+msgstr ""
+
+#: ../items/categories/level_16.txt:218
+msgid "Warlord Greatsword"
+msgstr ""
+
+#: ../items/categories/level_16.txt:230
+msgid "Sniper Greatbow"
+msgstr ""
+
+#: ../items/categories/level_16.txt:242
+msgid "Archwizard Greatstaff"
+msgstr ""
+
+#: ../items/categories/level_16.txt:254
+msgid "Templar Tower Shield"
+msgstr ""
+
+#: ../items/categories/level_16.txt:265
+msgid "Master Inferno Ring"
+msgstr ""
+
+#: ../items/categories/level_16.txt:275
+msgid "Master Glacial Ring"
+msgstr ""
+
+#: ../items/categories/level_16.txt:285
+msgid "Master Volt Ring"
+msgstr ""
+
+#: ../items/categories/level_16.txt:295
+msgid "Master Void Ring"
+msgstr ""
+
+#: ../items/categories/level_16.txt:305
+msgid "Master Scholar Ring"
+msgstr ""
+
+#: ../items/categories/level_16.txt:315
+msgid "Master Affluence Ring"
+msgstr ""
+
+#: ../items/categories/level_16.txt:325
+msgid "Master Relic Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:5
+msgid "Warrior Plate Helmet"
+msgstr ""
+
+#: ../items/categories/level_15.txt:17
+msgid "Ranger Plate Helmet"
+msgstr ""
+
+#: ../items/categories/level_15.txt:29
+msgid "Wizard Velvet Hood"
+msgstr ""
+
+#: ../items/categories/level_15.txt:41
+msgid "Warrior Plate Curiass"
+msgstr ""
+
+#: ../items/categories/level_15.txt:53
+msgid "Ranger Plate Curiass"
+msgstr ""
+
+#: ../items/categories/level_15.txt:65
+msgid "Wizard Velvet Vest"
+msgstr ""
+
+#: ../items/categories/level_15.txt:77
+msgid "Warrior Plate Greaves"
+msgstr ""
+
+#: ../items/categories/level_15.txt:89
+msgid "Ranger Plate Greaves"
+msgstr ""
+
+#: ../items/categories/level_15.txt:101
+msgid "Wizard Velvet Skirt"
+msgstr ""
+
+#: ../items/categories/level_15.txt:113
+msgid "Warrior Plate Boots"
+msgstr ""
+
+#: ../items/categories/level_15.txt:125
+msgid "Ranger Plate Boots"
+msgstr ""
+
+#: ../items/categories/level_15.txt:137
+msgid "Wizard Velvet Boots"
+msgstr ""
+
+#: ../items/categories/level_15.txt:149
+msgid "Warrior Plate Gauntlets"
+msgstr ""
+
+#: ../items/categories/level_15.txt:161
+msgid "Ranger Plate Gauntlets"
+msgstr ""
+
+#: ../items/categories/level_15.txt:173
+msgid "Wizard Velvet Sleeves"
+msgstr ""
+
+#: ../items/categories/level_15.txt:185
+msgid "Adventurer Warlord Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_15.txt:196
+msgid "Adventurer Sniper Pendant"
+msgstr ""
+
+#: ../items/categories/level_15.txt:207
+msgid "Adventurer Archwizard Spellbook"
+msgstr ""
+
+#: ../items/categories/level_15.txt:218
+msgid "Warrior Greatsword"
+msgstr ""
+
+#: ../items/categories/level_15.txt:230
+msgid "Ranger Greatbow"
+msgstr ""
+
+#: ../items/categories/level_15.txt:242
+msgid "Wizard Greatstaff"
+msgstr ""
+
+#: ../items/categories/level_15.txt:254
+msgid "Paladin Tower Shield"
+msgstr ""
+
+#: ../items/categories/level_15.txt:265
+msgid "Adventurer Inferno Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:275
+msgid "Adventurer Glacial Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:285
+msgid "Adventurer Volt Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:295
+msgid "Adventurer Void Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:305
+msgid "Adventurer Scholar Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:315
+msgid "Adventurer Affluence Ring"
+msgstr ""
+
+#: ../items/categories/level_15.txt:325
+msgid "Adventurer Relic Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:5
+msgid "Warrior Leather Hood"
+msgstr ""
+
+#: ../items/categories/level_7.txt:17
+msgid "Ranger Leather Hood"
+msgstr ""
+
+#: ../items/categories/level_7.txt:29
+msgid "Wizard Wool Hood"
+msgstr ""
+
+#: ../items/categories/level_7.txt:41
+msgid "Warrior Leather Tunic"
+msgstr ""
+
+#: ../items/categories/level_7.txt:53
+msgid "Ranger Leather Tunic"
+msgstr ""
+
+#: ../items/categories/level_7.txt:65
+msgid "Wizard Wool Vest"
+msgstr ""
+
+#: ../items/categories/level_7.txt:77
+msgid "Warrior Leather Pants"
+msgstr ""
+
+#: ../items/categories/level_7.txt:89
+msgid "Ranger Leather Pants"
+msgstr ""
+
+#: ../items/categories/level_7.txt:101
+msgid "Wizard Wool Skirt"
+msgstr ""
+
+#: ../items/categories/level_7.txt:113
+msgid "Warrior Leather Boots"
+msgstr ""
+
+#: ../items/categories/level_7.txt:125
+msgid "Ranger Leather Boots"
+msgstr ""
+
+#: ../items/categories/level_7.txt:137
+msgid "Wizard Wool Boots"
+msgstr ""
+
+#: ../items/categories/level_7.txt:149
+msgid "Warrior Leather Gloves"
+msgstr ""
+
+#: ../items/categories/level_7.txt:161
+msgid "Ranger Leather Gloves"
+msgstr ""
+
+#: ../items/categories/level_7.txt:173
+msgid "Wizard Wool Sleeves"
+msgstr ""
+
+#: ../items/categories/level_7.txt:185
+msgid "Adventurer Fighting Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_7.txt:196
+msgid "Adventurer Recon Pendant"
+msgstr ""
+
+#: ../items/categories/level_7.txt:207
+msgid "Adventurer Sorcerer Spellbook"
+msgstr ""
+
+#: ../items/categories/level_7.txt:218
+msgid "Warrior Shortsword"
+msgstr ""
+
+#: ../items/categories/level_7.txt:230
+msgid "Ranger Shortbow"
+msgstr ""
+
+#: ../items/categories/level_7.txt:242
+msgid "Wizard Rod"
+msgstr ""
+
+#: ../items/categories/level_7.txt:254
+msgid "Paladin Iron Buckler"
+msgstr ""
+
+#: ../items/categories/level_7.txt:265
+msgid "Adventurer Burn Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:275
+msgid "Adventurer Frost Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:285
+msgid "Adventurer Electric Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:295
+msgid "Adventurer Shadow Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:305
+msgid "Adventurer Knowledge Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:315
+msgid "Adventurer Prosperity Ring"
+msgstr ""
+
+#: ../items/categories/level_7.txt:325
+msgid "Adventurer Loot Ring"
+msgstr ""
+
+#: ../items/categories/potions.txt:5
+msgid "Health Potion"
+msgstr ""
+
+#: ../items/categories/potions.txt:8
+msgid "Restore 25% of maximum HP"
+msgstr ""
+
+#: ../items/categories/potions.txt:16
+msgid "Mana Potion"
+msgstr ""
+
+#: ../items/categories/potions.txt:19
+msgid "Restore 25% of maximum MP"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:5
+msgid "Summon Zombie Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:8
+msgid "Use: Summon a zombie to fight for you"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:16
+msgid "Perdition Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:19
+msgid "Use: Teleport to Perdition Harbor"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:27
+msgid "Shield Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:30
+msgid "Use: Create a magical shield that absorbs damage"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:38
+msgid "Fireball Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:41
+msgid "Use: Shoot a fireball"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:49
+msgid "Ice Bolt Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:52
+msgid "Use: Shoot an ice bolt"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:60
+msgid "Haste Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:63
+msgid "Use: Move at an increased speed for a limited time"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:71
+msgid "Immunity Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:74
+msgid "Use: Remove debuffs and become immune to debuffs for a limited time"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:82
+msgid "Reflection Scroll"
+msgstr ""
+
+#: ../items/categories/scrolls.txt:85
+msgid "Use: Creates a magical shield that reflects projectiles and damage for a limited time"
+msgstr ""
+
+#: ../items/categories/level_10.txt:5
+msgid "Fighting Chain Coif"
+msgstr ""
+
+#: ../items/categories/level_10.txt:17
+msgid "Recon Chain Coif"
+msgstr ""
+
+#: ../items/categories/level_10.txt:29
+msgid "Sorcerer Silk Hood"
+msgstr ""
+
+#: ../items/categories/level_10.txt:41
+msgid "Fighting Chain Curiass"
+msgstr ""
+
+#: ../items/categories/level_10.txt:53
+msgid "Recon Chain Curiass"
+msgstr ""
+
+#: ../items/categories/level_10.txt:65
+msgid "Sorcerer Silk Vest"
+msgstr ""
+
+#: ../items/categories/level_10.txt:77
+msgid "Fighting Chain Greaves"
+msgstr ""
+
+#: ../items/categories/level_10.txt:89
+msgid "Recon Chain Greaves"
+msgstr ""
+
+#: ../items/categories/level_10.txt:101
+msgid "Sorcerer Silk Skirt"
+msgstr ""
+
+#: ../items/categories/level_10.txt:113
+msgid "Fighting Chain Boots"
+msgstr ""
+
+#: ../items/categories/level_10.txt:125
+msgid "Recon Chain Boots"
+msgstr ""
+
+#: ../items/categories/level_10.txt:137
+msgid "Sorcerer Silk Boots"
+msgstr ""
+
+#: ../items/categories/level_10.txt:149
+msgid "Fighting Chain Gloves"
+msgstr ""
+
+#: ../items/categories/level_10.txt:161
+msgid "Recon Chain Gloves"
+msgstr ""
+
+#: ../items/categories/level_10.txt:173
+msgid "Sorcerer Silk Sleeves"
+msgstr ""
+
+#: ../items/categories/level_10.txt:185
+msgid "Wandering Warrior Leather Belt"
+msgstr ""
+
+#: ../items/categories/level_10.txt:196
+msgid "Wandering Ranger Pendant"
+msgstr ""
+
+#: ../items/categories/level_10.txt:207
+msgid "Wandering Wizard Spellbook"
+msgstr ""
+
+#: ../items/categories/level_10.txt:218
+msgid "Fighting Longsword"
+msgstr ""
+
+#: ../items/categories/level_10.txt:230
+msgid "Recon Longbow"
+msgstr ""
+
+#: ../items/categories/level_10.txt:242
+msgid "Sorcerer Staff"
+msgstr ""
+
+#: ../items/categories/level_10.txt:254
+msgid "Keeper Crest Shield"
+msgstr ""
+
+#: ../items/categories/level_10.txt:265
+msgid "Wandering Blaze Ring"
+msgstr ""
+
+#: ../items/categories/level_10.txt:275
+msgid "Wandering Freeze Ring"
+msgstr ""
+
+#: ../items/categories/level_10.txt:285
+msgid "Wandering Shock Ring"
+msgstr ""
+
+#: ../items/categories/level_10.txt:295
+msgid "Wandering Gloom Ring"
+msgstr ""
+
+#: ../items/categories/level_10.txt:305
+msgid "Wandering Intellectual Ring"
+msgstr ""
+
+#: ../items/categories/level_10.txt:315
+msgid "Wandering Lucrative Ring"
+msgstr ""
+
+#: ../items/categories/level_10.txt:325
+msgid "Wandering Artifact Ring"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:3
+msgid "Krolan's Hammer"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:4
+msgid "An essential tool for any blacksmith."
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:18
+msgid "Goblin Branch"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:19
+msgid "Mana flows inside its primitive exterior."
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:33
+msgid "Ardwen's Gloves"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:34
+msgid "These hands built a village."
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:49
+msgid "Blood Tunic"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:50
+msgid "When worn, this shirt heats the wearers veins."
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:63
+msgid "Dark Steppers"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:64
+msgid "Dancing through the shadows."
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:77
+msgid "Seagate's Tri-pants"
+msgstr ""
+
+#: ../items/categories/level_4_unique.txt:78
+msgid "These ragged trousers are covered in scorch marks, yet are cold to the touch."
+msgstr ""
+
+#: ../items/categories/level_5.txt:5
+msgid "Leather Hood"
+msgstr ""
+
+#: ../items/categories/level_5.txt:14
+msgid "Leather Tunic"
+msgstr ""
+
+#: ../items/categories/level_5.txt:23
+msgid "Leather Pants"
+msgstr ""
+
+#: ../items/categories/level_5.txt:32
+msgid "Leather Boots"
+msgstr ""
+
+#: ../items/categories/level_5.txt:41
+msgid "Leather Gloves"
+msgstr ""
+
+#: ../items/categories/level_5.txt:50
+msgid "Wool Hood"
+msgstr ""
+
+#: ../items/categories/level_5.txt:59
+msgid "Wool Vest"
+msgstr ""
+
+#: ../items/categories/level_5.txt:68
+msgid "Wool Skirt"
+msgstr ""
+
+#: ../items/categories/level_5.txt:77
+msgid "Wool Boots"
+msgstr ""
+
+#: ../items/categories/level_5.txt:86
+msgid "Wool Sleeves"
+msgstr ""
+
+#: ../items/categories/level_5.txt:95
+msgid "Shortsword"
+msgstr ""
+
+#: ../items/categories/level_5.txt:104
+msgid "Shortbow"
+msgstr ""
+
+#: ../items/categories/level_5.txt:113
+msgid "Rod"
+msgstr ""
+
+#: ../items/categories/level_5.txt:122
+msgid "Iron Buckler"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:5
+msgid "Lost Totem"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:6
+msgid "The ancient scripture contained appears to be some sort of magic."
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:21
+msgid "Mog's Axe"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:22
+msgid "Not as sleek as an arrow, but just as effective."
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:36
+msgid "Guardsman Curiass"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:37
+msgid "A royal mail with a 'K' engraved on the breast."
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:53
+msgid "Inferno Pendant"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:54
+msgid "Hot. Hot. Hot."
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:68
+msgid "Alchemist's Skirt"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:69
+msgid "Knowledge of formulating many concoctions bestows its wearer."
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:78
+msgid "Drinking potions may create another potion of the same type."
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:87
+msgid "Metzger's Battlemace"
+msgstr ""
+
+#: ../items/categories/level_12_unique.txt:88
+msgid "Swinging this mace around leaves a clouded trail of dark smoke."
 msgstr ""
 
 #: ../powers/base/warrior/shield_bash.txt:1
@@ -3573,30 +3657,6 @@ msgstr ""
 
 #: ../powers/base/warrior/shield_bash.txt:2
 msgid "Dash into enemies, crushing them with sheer force."
-msgstr ""
-
-#: ../powers/base/warrior/blood_strike.txt:1
-msgid "Blood Strike"
-msgstr ""
-
-#: ../powers/base/warrior/blood_strike.txt:2
-msgid "Deal a powerful blow that inflicts a bleeding wound."
-msgstr ""
-
-#: ../powers/base/warrior/cleave.txt:1
-msgid "Cleave"
-msgstr ""
-
-#: ../powers/base/warrior/cleave.txt:2
-msgid "Attack all enemies in a wide arc."
-msgstr ""
-
-#: ../powers/base/warrior/throw_axe.txt:1
-msgid "Throw Axe"
-msgstr ""
-
-#: ../powers/base/warrior/throw_axe.txt:2
-msgid "Throw an axe to deal extra melee weapon damage."
 msgstr ""
 
 #: ../powers/base/warrior/quake.txt:1
@@ -3615,8 +3675,176 @@ msgstr ""
 msgid "Remove debuffs and become immune to debuffs for a limited time."
 msgstr ""
 
-#: ../powers/categories/items.txt:23
-msgid "Summon Zombie"
+#: ../powers/base/warrior/throw_axe.txt:1
+msgid "Throw Axe"
+msgstr ""
+
+#: ../powers/base/warrior/throw_axe.txt:2
+msgid "Throw an axe to deal extra melee weapon damage."
+msgstr ""
+
+#: ../powers/base/warrior/blood_strike.txt:1
+msgid "Blood Strike"
+msgstr ""
+
+#: ../powers/base/warrior/blood_strike.txt:2
+msgid "Deal a powerful blow that inflicts a bleeding wound."
+msgstr ""
+
+#: ../powers/base/warrior/cleave.txt:1
+msgid "Cleave"
+msgstr ""
+
+#: ../powers/base/warrior/cleave.txt:2
+msgid "Attack all enemies in a wide arc."
+msgstr ""
+
+#: ../powers/base/warrior/stone_wall.txt:1
+msgid "Stone Wall"
+msgstr ""
+
+#: ../powers/base/warrior/stone_wall.txt:2
+msgid "Withstand stronger attacks with more health and absorption."
+msgstr ""
+
+#: ../powers/base/warrior/throw_knife.txt:1
+msgid "Throw Knife"
+msgstr ""
+
+#: ../powers/base/warrior/throw_knife.txt:2
+msgid "Throw a knife to deal reduced melee weapon damage."
+msgstr ""
+
+#: ../powers/base/magician/shock.txt:1
+msgid "Shock"
+msgstr ""
+
+#: ../powers/base/magician/shock.txt:2
+msgid "Shoot a ball of electricity that is extra effective against movement-impaired enemies."
+msgstr ""
+
+#: ../powers/base/magician/ice_bolt.txt:1
+msgid "Ice Bolt"
+msgstr ""
+
+#: ../powers/base/magician/ice_bolt.txt:2
+msgid "Launch a chunk of ice that slows enemies."
+msgstr ""
+
+#: ../powers/base/magician/energy_flow.txt:1
+msgid "Energy Flow"
+msgstr ""
+
+#: ../powers/base/magician/energy_flow.txt:2
+msgid "Mana reserves are increased and regenerate faster."
+msgstr ""
+
+#: ../powers/base/magician/freeze.txt:1
+msgid "Freeze"
+msgstr ""
+
+#: ../powers/base/magician/freeze.txt:4
+msgid "Create a ray of several piercing cold shards that slow enemies."
+msgstr ""
+
+#: ../powers/base/magician/fireball.txt:1
+msgid "Fireball"
+msgstr ""
+
+#: ../powers/base/magician/fireball.txt:2
+msgid "Launch a ball of fire that does extra mental damage."
+msgstr ""
+
+#: ../powers/base/magician/burn.txt:1
+msgid "Burn"
+msgstr ""
+
+#: ../powers/base/magician/burn.txt:4
+msgid "Blast multiple enemies in a distant area with fire."
+msgstr ""
+
+#: ../powers/base/magician/shield.txt:4
+msgid "Create a force field that absorbs damage."
+msgstr ""
+
+#: ../powers/base/magician/thunderstrike.txt:1
+msgid "Thunderstrike"
+msgstr ""
+
+#: ../powers/base/magician/thunderstrike.txt:4
+msgid "Lightning strikes from the sky with a high chance to crit movement-impaired enemies."
+msgstr ""
+
+#: ../powers/base/ranger/shoot.txt:1
+msgid "Shoot"
+msgstr ""
+
+#: ../powers/base/ranger/shoot.txt:4
+msgid "Basic ranged attack."
+msgstr ""
+
+#: ../powers/base/ranger/bear_trap.txt:1
+msgid "Bear Trap"
+msgstr ""
+
+#: ../powers/base/ranger/bear_trap.txt:2
+msgid "This trap deals extra ranged weapon damage and immobilizes the target."
+msgstr ""
+
+#: ../powers/base/ranger/piercing_shot.txt:1
+msgid "Piercing Shot"
+msgstr ""
+
+#: ../powers/base/ranger/piercing_shot.txt:2
+msgid "Fire a shot that ignores armor and goes through multiple enemies."
+msgstr ""
+
+#: ../powers/base/ranger/wolfs_eye.txt:1
+msgid "Wolf's Eye"
+msgstr ""
+
+#: ../powers/base/ranger/wolfs_eye.txt:2
+msgid "Improves the ability to hit and critically wound enemies."
+msgstr ""
+
+#: ../powers/base/ranger/haste.txt:3
+msgid "Move at an increased speed for a limited time."
+msgstr ""
+
+#: ../powers/base/ranger/multishot.txt:1
+msgid "Multishot"
+msgstr ""
+
+#: ../powers/base/ranger/multishot.txt:2
+msgid "Shoot three projectiles simultaneously."
+msgstr ""
+
+#: ../powers/base/ranger/caltrops.txt:1
+msgid "Caltrops"
+msgstr ""
+
+#: ../powers/base/ranger/caltrops.txt:2
+msgid "This trap deals reduced ranged weapon damage and slows the target."
+msgstr ""
+
+#: ../powers/base/ranger/ember_shot.txt:1
+msgid "Ember Shot"
+msgstr ""
+
+#: ../powers/base/ranger/ember_shot.txt:2
+msgid "Fire a spray of burning embers at close range. Effective against armored enemies."
+msgstr ""
+
+#: ../powers/base/ranger/rapid_fire.txt:1
+msgid "Rapid Fire"
+msgstr ""
+
+#: ../powers/base/ranger/rapid_fire.txt:2
+msgid "Fire five low power missiles in quick succession."
+msgstr ""
+
+#: ../powers/categories/quest.txt:4
+msgid "Performing the ritual at the Red Altar has granted you faster regeneration."
 msgstr ""
 
 #: ../powers/categories/warrior.txt:7
@@ -3637,5 +3865,13 @@ msgstr ""
 
 #: ../powers/trees/default.txt:11
 msgid "Magician"
+msgstr ""
+
+#: ../scripts/powers/goblin_steal.txt:8
+msgid "Goblin Thief stole a potion!"
+msgstr ""
+
+#: ../scripts/powers/goblin_steal.txt:25
+msgid "Goblin Thief stole some Gold!"
 msgstr ""
 
